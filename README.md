@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled-shbair&show_icons=true&locale=en" alt="khaled-shbair" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-shbair&" alt="khaled-shbair" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Khaled-Shbair&theme=highcontrast" alt="GitHub Streak" /></a>
