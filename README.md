@@ -24,18 +24,10 @@
 
 <h3 align="left">🌐 Get in Touch</h3>
 <p align="left">
-  📫 Email: khaled.shbair12@gmail.com <br>
-  🌍 LinkedIn: [Your LinkedIn Profile] <br>
-  🛠 GitHub: https://github.com/Khaled-Shbair <br>
-  📞 WhatsApp: [Your WhatsApp Number]
-</p>
-
-<h3 align="left">🌐 Get in Touch</h3>
-<p align="left">
-  📫 Email: khaled.shbair12@gmail.com <br>
-  🛠 GitHub: <a href="https://github.com/Khaled-Shbair" target="_blank">https://github.com/Khaled-Shbair</a> <br>
+  📫 Email: <a href="mailto:khaled.shbair12@gmail.com">khaled.shbair12@gmail.com</a><br>
+  🛠 GitHub: <a href="https://github.com/Khaled-Shbair" target="_blank">https://github.com/Khaled-Shbair</a><br>
   <a href="https://wa.me/970599724037" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20" height="20" />
     WhatsApp: +970599724037
   </a>
 </p>
