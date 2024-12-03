@@ -8,7 +8,7 @@
 <ul>
   <li>Craft responsive, elegant, and user-centric mobile applications.</li>
   <li>I use <strong>Dart</strong> as the core language in Flutter to build efficient, high-performance mobile applications, ensuring smooth functionality and an enhanced user experience.</li>
-  <li>Work with a variety of Flutter tools and technologies such as <strong>GetX</strong>, <strong>SQFLite</strong>, <strong>Dio</strong>, <strong>Firebase</strong>,<strong>shared_preferences</strong>, and more to create robust, scalable, and secure mobile applications.</li>
+  <li>Work with a variety of Flutter tools and technologies such as <strong>GetX</strong>, <strong>SQFLite</strong>, <strong>Dio</strong>, <strong>shared_preferences</strong>, and more to create robust, scalable, and secure mobile applications.</li>
   <li>Solve complex problems with clean, maintainable code.</li>
 </ul>
 
@@ -24,8 +24,18 @@
 
 <h3 align="left">🌐 Get in Touch</h3>
 <p align="left">
-  📫 Email: [Your Email] <br>
+  📫 Email: khaled.shbair12@gmail.com <br>
   🌍 LinkedIn: [Your LinkedIn Profile] <br>
-  🛠 GitHub: [Your GitHub Profile] <br>
+  🛠 GitHub: https://github.com/Khaled-Shbair <br>
   📞 WhatsApp: [Your WhatsApp Number]
+</p>
+
+<h3 align="left">🌐 Get in Touch</h3>
+<p align="left">
+  📫 Email: khaled.shbair12@gmail.com <br>
+  🛠 GitHub: <a href="https://github.com/Khaled-Shbair" target="_blank">https://github.com/Khaled-Shbair</a> <br>
+  <a href="https://wa.me/970599724037" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" height="30" />
+    WhatsApp: +970599724037
+  </a>
 </p>
