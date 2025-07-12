@@ -7,20 +7,20 @@
 </div>
 
 <p align="center">
-  I'm a passionate <strong>Mobile App Developer</strong> specializing in building dynamic and high-performance applications using <strong>Flutter</strong>. With a keen eye for detail and a commitment to delivering top-notch user experiences, I transform innovative ideas into functional, beautiful mobile solutions.
+  I‘m a developer with many years of experience in mobile application development. I take pride in writing high-quality, maintainable code and building reliable solutions. I take pride in using my skills to help clients reach their goals.I firmly believe that success is earned through hard work, focus, and above all, honesty — values that guide every project I undertake to ensure the best results.
 </p>
 
 <h3 align="left">🔹 What I Do</h3>
 <ul>
-  <li>Craft responsive, elegant, and user-centric mobile applications.</li>
-  <li>I use <strong>Dart</strong> as the core language in Flutter to build efficient, high-performance mobile applications, ensuring smooth functionality and an enhanced user experience.</li>
-  <li>Work with a variety of Flutter tools and technologies such as <strong>GetX</strong>, <strong>SQFLite</strong>, <strong>Firebase</strong>,<strong>Dio</strong>, <strong>shared_preferences</strong>, and more to create robust, scalable, and secure mobile applications.</li>
-  <li>Solve complex problems with clean, maintainable code.</li>
+ <li>Transform ideas into functional apps that meet user needs and simplify their interaction with digital services.</li>
+  <li>Write clean, maintainable code to build scalable, reliable solutions.</li>
+  <li>Use my skills and knowledge to help clients achieve their goals with focused, honest, and hard-working approach.</li>
+  <li>Develop mobile applications using <strong>Dart</strong> and <strong>Flutter</strong> to deliver smooth and high-performance experiences.</li>
 </ul>
 
 <h3 align="left">🔹 My Vision</h3>
 <p align="left">
-  I believe in the power of technology to inspire and innovate. My goal is to create applications that make life easier, more connected, and more enjoyable for users around the globe.
+I believe in the power of technology to inspire and innovate. My goal is to help clients turn their ideas into real applications that effectively meet user needs and earn their lasting satisfaction and trust.
 </p>
 
 <h3 align="left">🔹 Let's Collaborate!</h3>
